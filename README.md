@@ -31,10 +31,6 @@
 
 - 🌱 I’m currently learning BSc Information and Knowledge Systems
 
-# Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u21598267&show_icons=true&theme=dark)](https://github.com/u21598267/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u21598267)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
