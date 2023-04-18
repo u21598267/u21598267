@@ -24,12 +24,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=u21598267e&style=flat-square&color=blue" alt=""/>
 
-- 🔭 I’m currently working on a Mini Project as part of my COS301 module
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width='300' />
 </div>
 
-- 🌱 I’m currently learning BSc Information and Knowledge Systems
+- 🌱 I am a BSc Information and Knowledge Systems student, majoring in Software Development with a passion for learning and solving problems. I have strong skills in programming languages such as C#, Java, C++, JavaScript, and SQL, as well as coding frameworks and markup languages such as Angular, React, HTML, and more. I also have a solid foundation in software engineering principles and practices. I am hardworking, dedicated, and always eager to take on new challenges and opportunities that can help me grow and improve as a developer. I have worked on various projects, both individually and in teams, using different technologies and tools to create innovative 
+and user-friendly applications. I strive to be the best in whatever I do and to deliver high-quality results.
 
 
 
